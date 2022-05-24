@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Alexey Abramov. I like building reliable software in the fields of computer vision, artificial intelligence, and robotics. 
+
 <!--
 **aabramovrepo/aabramovrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
